@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1234567890",
+    "name": "John Doe",
+    "age": "30",
+    "address": "123 Main Street, Anytown, CA 12345",
+    "telNo": "1234567890",
+    "username": "johndoe",
+    "password": "123123",
+    "status": true
+  },
+  {
+    "id": "12345642342347890",
+    "name": "saman perera",
+    "age": "21",
+    "address": "32/h/1, hospital road, kalubowila",
+    "telNo": "+94760987565",
+    "username": "saman",
+    "password": "5435435",
+    "status": false
+  },
+  {
+    "id": "4234324",
+    "name": "sam perera",
+    "age": "25",
+    "address": "45/j, kolonnawa road, wallampitiya",
+    "telNo": "+940394532134",
+    "username": "sam",
+    "password": "4234324",
+    "status": true
+  }
+]
